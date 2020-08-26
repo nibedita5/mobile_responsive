@@ -1,0 +1,191 @@
+
+@media(min-width:1200px){
+header{
+    width: 100%;
+	height: 50px;
+	background-color:#00FFFF;
+
+}
+header a{
+	font-size:25px;
+	background-color: pink;
+	border: 1px solid black;
+	margin-left: 9px;
+	position: relative;
+	top: 10px;
+}
+nav{
+	height:322px;
+	width: 7%;
+	background-color:#FFCCFF;
+	font size: 20px;
+	text-align: center;
+	float: left;
+}
+nav a{
+	font-size:25px;
+	position: relative;
+	top: 160px;
+
+}
+.container{
+    background-color:#99FF99;
+    display:flex;
+    flex-wrap: wrap;
+}
+.item1{
+	background-color: #9999FF;
+	height: 122px;
+	width: 309px;
+	margin-left:103px;
+	position: relative;
+	top: 15px;
+
+
+}
+	.item2{
+	background-color: #FFCCFF;	
+	height: 122px;
+	width: 309px;
+	margin-left:303px;
+	position: relative;
+	top: 15px;
+	}
+	.item3{
+    background-color: #6666FF;
+    height: 100px;
+    width: 120px;
+    margin-left:180px;
+    position:relative;
+    top: 67px;
+	}
+	.item4{
+	background-color: #FFFF99;
+	height: 100px;
+    width: 120px;
+    margin-left:118px;
+    position:relative;
+    top:64px;
+	}
+	
+	.item5{
+	background-color: #C0C0C0;
+	height: 100px;
+    width: 120px;
+    margin-left:655px;
+    position:relative;
+    top:-35px;	
+	}
+	footer{
+		height: 60px;
+		width: 100%;
+			background-color:#E0E0E0;
+				}
+
+
+	}
+    
+@media(min-width:320px) and (max-width:1199px) {
+header{
+	height: 50px;
+	background-color:#00FFFF;
+}
+header a{
+	font-size:25px;
+	background-color: pink;
+	border: 1px solid black;
+	margin-left: 9px;
+	position: relative;
+	top: 10px;
+}
+nav{
+	height:30px;
+	width: 100%;
+	background-color:#FFCCFF;
+	font size: 20px;
+	text-align: center;
+
+}
+nav a{
+	font-size:25px;
+	position: relative;
+	top: 2px;
+}
+	.container{
+    background-color:#99FF99;
+    display:block;
+    clear: both;
+
+}
+   .item1{
+	background-color: #9999FF;
+	height: 122px;
+	width: 309px;
+	margin-left:103px;
+	position: relative;
+	top: 15px;
+
+
+}
+	.item2{
+	background-color: #FFCCFF;	
+	height: 122px;
+	width: 309px;
+	margin-left:105px;
+	position: relative;
+	top: 24px;
+	}
+	.item3{
+    background-color: #6666FF;
+    height:87px;
+    width: 129px;
+    margin-left:151px;
+    position:relative;
+    top: 35px;
+	}
+	.item4{
+	background-color: #FFFF99;
+	height: 87px;
+    width: 129px;
+    margin-left:152px;
+    position:relative;
+    top: 42px;
+	}
+	.item5{
+    background-color: #FFFF99;
+	height: 87px;
+    width: 129px;
+    margin-left:152px;
+    margin-top: 66px;
+    position:relative;
+    top:-17px;
+}
+  footer{
+		height:30px;
+		width: 100%;
+		background-color:#E0E0E0;
+	}
+
+	}
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	}
